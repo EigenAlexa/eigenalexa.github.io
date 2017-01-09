@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               Eigen
+tagline:             "ML@B's entry for the 2017 Alexa Prize"
+description:         ''
+url:                 'http://eigen.chat'
+baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Eigen
+  url:               https://ml.berkeley.edu
+  email:             eigen@ml.berkeley.edu
 
 # Permalinks
 
@@ -43,5 +43,3 @@ version:             0.0.6
 
 # Exclusions from the final site
 exclude: [optional, vendor]
-
-
